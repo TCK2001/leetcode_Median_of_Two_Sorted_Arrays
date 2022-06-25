@@ -1,6 +1,6 @@
 # leetcode_Median_of_Two_Sorted_Arrays
 + 두input값을 합쳐 중간값을 리턴하기
-+ 把兩個input值合起來求出 中間值
++ 把兩個input值合起來求出中間值
 -----
 + Example1
 ```
